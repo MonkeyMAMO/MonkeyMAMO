@@ -19,7 +19,7 @@ I'm Mokhtar, a passionate software developer with a knack for problem-solving an
 - Git/GitHub
 
 #### Connect with Me
-- LinkedIn: linkedin.com/in/el-mokhtar-el-malihi-b533bb300
+- LinkedIn: [Here it is](linkedin.com/in/el-mokhtar-el-malihi-b533bb300)
 - Twitter: I will create one very soon !!!
 - Personal Website: [Here you go](https://monkeym-portfolio.framer.ai/MonkeyM)
 
